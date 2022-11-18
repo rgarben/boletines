@@ -11,6 +11,8 @@ are the following:
 valid.
 “The number XX is odd”
 “The number XX is even”
+
+Rafael García Benítez
 '''
 
 n = int(input("¿Cuantos numeros quieres introducir?"))
@@ -26,4 +28,3 @@ while n>i:
     elif n1>0 and n1%2==1:
         print("El numero es impar")
         i=i+1
-    

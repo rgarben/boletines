@@ -9,6 +9,8 @@ show the times table following the next format:
 7*1=7
 .....
 7*10=70
+
+Rafael García Benítez
 '''
 
 num = int(input("Introduce un numero comprendido entre 1 y 10: "))

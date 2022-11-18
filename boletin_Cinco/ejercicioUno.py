@@ -6,6 +6,8 @@ informe de las calificaciones en el siguiente formato:
 60-69, Bien
 50-59, Suficiente
 0-49, Suspens
+
+Rafael Garcia Benitez
 '''
 
 nota = int(input("Introduce la nota: "))

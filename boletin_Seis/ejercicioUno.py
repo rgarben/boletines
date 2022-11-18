@@ -5,6 +5,8 @@ multiple of 7 you should show the message "The number xx is a multiple of 7". If
 number is a multiple of 13 you should show the message "The number xx is a
 multiple of 13". If the number is a multiple of 7 and 13 you should show both
 messages.
+
+Rafael García Benítez
 '''
 
 for i in range(1, 101):
