@@ -11,7 +11,7 @@
 - [Boletín 3]()
 - [Boletín 4]()
 - [Boletín 5]()
-- [Boletín 6]()
+- [Boletín 6](https://github.com/rgarben/boletines/tree/master/boletinSeis)
 - [Boletín 7]()
 - [Boletín 8: **_Programación modular._**]()
 
