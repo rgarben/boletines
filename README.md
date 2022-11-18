@@ -6,14 +6,14 @@
 
 ![logo][foto]
 
-- [Boletín 1]()
-- [Boletín 2]()
-- [Boletín 3]()
-- [Boletín 4]()
-- [Boletín 5]()
-- [Boletín 6](https://github.com/rgarben/boletines/tree/master/boletinSeis)
-- [Boletín 7]()
+- [Boletín 1: **_Operaciones básicas._**]()
+- [Boletín 2: **_Expresiones lógicas._**]()
+- [Boletín 3: **_Estructuras Condicionales._**]()
+- [Boletín 4: **_Operaciones y condicionales._**]()
+- [Boletín 5: **_Condicionales extra._**]()
+- [Boletín 6: **_Bucles._**](https://github.com/rgarben/boletines/tree/master/boletinSeis)
+- [Boletín 7: **_Bucles avanzados._**]()
 - [Boletín 8: **_Programación modular._**]()
 
 
-[WIKI de _Python_](https://es.wikipedia.org/wiki/Python)
+[**WIKI** de _Python_](https://es.wikipedia.org/wiki/Python)
