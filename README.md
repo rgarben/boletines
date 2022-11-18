@@ -9,4 +9,4 @@
 - [Boletín 5]()
 - [Boletín 6]()
 - [Boletín 7]()
-- [Boletín 8]()
+- [Boletín 8: **_Programación modular._**]()
