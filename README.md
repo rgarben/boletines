@@ -15,6 +15,6 @@
 - [Boletín 7: **_Bucles avanzados._**](https://github.com/rgarben/boletines/tree/master/boletin_Siete)
 - [Boletín 8: **_Programación modular._**](https://github.com/rgarben/boletines/tree/master/boletin_Ocho)
 - [Boletín 9: **_Programación modular 2._**](https://github.com/rgarben/boletines/tree/master/boletin_Nueve)
-
+- [Boletín 10: **_Programación modular 3._**](https://github.com/rgarben/boletines/tree/master/boletin_Diez)
 
 [**WIKI** de _Python_](https://es.wikipedia.org/wiki/Python)
