@@ -12,12 +12,12 @@ d = (day + y + y/4 - y/100 + y/400 + (31*m)/12) mod 7
 Rafael García Benítez
 '''
 
-dia = int (input("Introduce el dia: "))
-mes = int (input("Introduce el mes: "))
-anio = int (input("Introduce el anio: "))
-
 def diaDeLaSemana (day, month, year):
-    semana = ["Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sabado", "Domingo"]
-    diaSemana = semana[(day + year + year//4 - year//100 + year//400 + (31*month)//12) % 7]
+    semana = ["Domingo", "Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sabado"]
+    a = (14 - month) // 12
+    y = year - a
+    m = month + 12 * a - 2
+    diaSemana = semana[(day + y + y//4 - y//100 + y//400 + (31*m)//12) % 7]
     return diaSemana
-print(diaDeLaSemana(dia,mes,anio))
+
+print(diaDeLaSemana(26,11,2022))

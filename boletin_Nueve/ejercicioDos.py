@@ -7,11 +7,7 @@ leap year if it is divisible by 100 unless it is also divisible by 400.
 Rafael García Benítez
 '''
 
-anio = int(input("Introduce un año entre 400 y 2050: "))
-while anio<400 or anio>2050:
-    anio = int(input("Introduce un año entre 400 y 2050: "))
-
 def isLeapYear (year):
-    return year%4==0 and (year%100!=0 or year%400==0)
+    return (year>400) and (year%4==0 and (year%100!=0 or year%400==0))
 
-print(isLeapYear(anio))
+print(isLeapYear(2004))
