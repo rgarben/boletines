@@ -6,14 +6,16 @@ encontrará y deberá devolver True, en caso contrario deberá devolver False.
 Rafael García Benítez
 '''
 
-def buscarCadenaEnCadena (buscarCade,cade):
-    palabra=True
+def buscarPalabraEnCadena (buscarCade,cade):
+    palabra=False
     contarCaracter=0
-    for i in range(len(cade)):
-        if cade[i] in buscarCade:
+    contarLetras=0
+    while contarLetras < (len(cade)):
+        if contarCaracter<len(buscarCade) and buscarCade[contarCaracter]==cade[contarLetras]:
             contarCaracter+=1
+        contarLetras+=1
     if contarCaracter==len(buscarCade):
-        palabra=False
+        palabra=True
     return palabra
 
-print(buscarCadenaEnCadena('hola', 'shybaoxlna'))
+print(buscarPalabraEnCadena('hola', 'shyboaxlnaa'))
